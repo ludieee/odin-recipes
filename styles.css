@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(245, 245, 245);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+#title {
+    font-size: x-large;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.body {
+    text-align: left;
+    margin: 70px;
+}
