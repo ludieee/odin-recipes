@@ -1,7 +1,6 @@
 html {
     background-color: rgb(245, 245, 245);
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 20px;
 }
 
 #title {
@@ -9,11 +8,22 @@ html {
     text-align: center;
 }
 
+.header {
+    font-weight: bolder;
+    font-size: larger;
+    margin:70px;
+}
+
 .image {
     text-align: center;
+}
+
+.recipe-image {
+    margin: 70px;
 }
 
 .body {
     text-align: left;
     margin: 70px;
+    font-size: 20px;
 }
